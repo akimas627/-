@@ -53,27 +53,27 @@ video{
   bottom     : 0;
   right      : 0;
   opacity    : 0;
-  animation  : bgAnime 20s infinite;   /* 4画像 × 各5s = 20s */
+  animation  : bgAnime 25s infinite;   /* 4画像 × 各5s = 20s */
 }
 
 /* --- 段差で背景画像のアニメーションを実行 ----------------- */
 .box .src1 {
-  background-image : url(../images/op_taki.JPG);   /* 背景の画像を指定 */
+  background-image : url(../images/op_tki.JPG);   /* 背景の画像を指定 */
   background-size : cover;
 }
 .box .src2 {
   background-image : url(../images/op_3.jpg);   /* 背景の画像を指定 */
-  animation-delay  : 5s;
+  animation-delay  : 7s;
   
 }
 .box .src3 {
   background-image : url(../images/op_furo.JPG);   /* 背景の画像を指定 */
-  animation-delay  : 10s;
+  animation-delay  : 13s;
   background-size : cover;
 }
 .box .src4 {
   background-image : url(../images/IMG_17278.png);   /* 背景の画像を指定 */
-  animation-delay  : 15s;
+  animation-delay  : 19s;
   background-size: cover;
 }
 
