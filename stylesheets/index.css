@@ -58,7 +58,7 @@ video{
 
 /* --- 段差で背景画像のアニメーションを実行 ----------------- */
 .box .src1 {
-  background-image : url(../images/op_taki.jpg);   /* 背景の画像を指定 */
+  background-image : url(../images/op_taki.JPG);   /* 背景の画像を指定 */
   background-size : cover;
 }
 .box .src2 {
