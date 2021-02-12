@@ -58,11 +58,11 @@ video{
 
 /* --- 段差で背景画像のアニメーションを実行 ----------------- */
 .box .src1 {
-  background-image : url(../images/op_3.jpg);   /* 背景の画像を指定 */
+  background-image : url(../images/op_tki.JPG);   /* 背景の画像を指定 */
   background-size : cover;
 }
 .box .src2 {
-  background-image : url(../images/op_tki.JPG);   /* 背景の画像を指定 */
+  background-image : url(../images/op_3.jpg);   /* 背景の画像を指定 */
   animation-delay  : 7s;
   
 }
